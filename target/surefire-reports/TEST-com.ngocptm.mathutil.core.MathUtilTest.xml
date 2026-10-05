@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.ngocptm.mathutil.core.MathUtilTest" time="0.296" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.class.path" value="D:\Ky5\SWT301\Lab2\mathutil-junit\target\test-classes;D:\Ky5\SWT301\Lab2\mathutil-junit\target\classes;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\81809\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\81809\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\81809\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21.0.10\bin"/>
+    <property name="sun.java.command" value="C:\Users\81809\AppData\Local\Temp\surefire14615251707500273512\surefirebooter-20261005120642922_3.jar C:\Users\81809\AppData\Local\Temp\surefire14615251707500273512 2026-10-05T12-06-42_695-jvmRun1 surefire-20261005120642922_1tmp surefire_0-20261005120642922_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Ky5\SWT301\Lab2\mathutil-junit\target\test-classes;D:\Ky5\SWT301\Lab2\mathutil-junit\target\classes;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\81809\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\81809\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\81809\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\81809\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\81809"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21.0.10"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Ky5\SWT301\Lab2\mathutil-junit"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\81809\AppData\Local\Temp\surefire14615251707500273512\surefirebooter-20261005120642922_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.10+8-LTS-217"/>
+    <property name="user.name" value="legion"/>
+    <property name="stdout.encoding" value="MS932"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\81809\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\81809\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.10"/>
+    <property name="user.dir" value="D:\Ky5\SWT301\Lab2\mathutil-junit"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="MS932"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21.0.10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/81809/.gemini/antigravity/bin;C:\Users\81809\AppData\Roaming\Antigravity\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Git\cmd;%CATALINA_HOME%\bin;C:\Gradle\gradle-9.6.1\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Program Files\Maven\apache-maven-3.9.16\bin;C:\Users\81809\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\81809\AppData\Local\Programs\Python\Python310\;C:\Users\81809\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\81809\AppData\Local\Programs\Python\Python314\;C:\Users\81809\AppData\Local\Programs\Python\Launcher\;C:\Users\81809\AppData\Local\Microsoft\WindowsApps;C:\Users\81809\AppData\Local\PowerToys\;C:\Users\81809\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\81809\AppData\Local\Python\bin;C:\Users\81809\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\81809\AppData\Roaming\npm;C:\Users\81809\AppData\Local\Programs\Antigravity IDE\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="MS932"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.10+8-LTS-217"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testGetFactorialGivenWrongArgumentThrowsException" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.043"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[1]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.061"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[2]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.003"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[3]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.002"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[4]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.003"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[5]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.002"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[6]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.003"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWellParameterized(int, long)[7]" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.002"/>
+  <testcase name="testGetFactorialGivenRightArgumentReturnsWell" classname="com.ngocptm.mathutil.core.MathUtilTest" time="0.001"/>
+</testsuite>
