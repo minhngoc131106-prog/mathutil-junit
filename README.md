@@ -1,3 +1,4 @@
+![MathUtil CI Pipeline](https://github.com/minhngoc131106-prog/mathutil-junit/actions/workflows/ci.yml/badge.svg)
 # MathUtil JUnit & CI/CD Project
 
 Dự án kiểm thử đơn vị (Unit Test) cho lớp `MathUtil` sử dụng **JUnit 5**, **Maven**, **JaCoCo** và **GitHub Actions (CI)**.
